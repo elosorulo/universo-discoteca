@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/universo-discoteca/static/css/main.6df71bf4.chunk.css",
-    "main.js": "/universo-discoteca/static/js/main.2eaa5a81.chunk.js",
-    "main.js.map": "/universo-discoteca/static/js/main.2eaa5a81.chunk.js.map",
+    "main.js": "/universo-discoteca/static/js/main.1782f510.chunk.js",
+    "main.js.map": "/universo-discoteca/static/js/main.1782f510.chunk.js.map",
     "runtime-main.js": "/universo-discoteca/static/js/runtime-main.d6580537.js",
     "runtime-main.js.map": "/universo-discoteca/static/js/runtime-main.d6580537.js.map",
     "static/js/2.b0b815cb.chunk.js": "/universo-discoteca/static/js/2.b0b815cb.chunk.js",
     "static/js/2.b0b815cb.chunk.js.map": "/universo-discoteca/static/js/2.b0b815cb.chunk.js.map",
     "index.html": "/universo-discoteca/index.html",
-    "precache-manifest.66fa18e423e857be2f9d53b0f534ebc2.js": "/universo-discoteca/precache-manifest.66fa18e423e857be2f9d53b0f534ebc2.js",
+    "precache-manifest.ab54b2bc593f736af172a08f28075a54.js": "/universo-discoteca/precache-manifest.ab54b2bc593f736af172a08f28075a54.js",
     "service-worker.js": "/universo-discoteca/service-worker.js",
     "static/css/main.6df71bf4.chunk.css.map": "/universo-discoteca/static/css/main.6df71bf4.chunk.css.map",
     "static/js/2.b0b815cb.chunk.js.LICENSE.txt": "/universo-discoteca/static/js/2.b0b815cb.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.d6580537.js",
     "static/js/2.b0b815cb.chunk.js",
     "static/css/main.6df71bf4.chunk.css",
-    "static/js/main.2eaa5a81.chunk.js"
+    "static/js/main.1782f510.chunk.js"
   ]
 }
