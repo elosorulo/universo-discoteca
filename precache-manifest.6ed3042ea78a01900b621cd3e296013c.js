@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d0dba2237836840d387b162377fa81c",
+    "revision": "b485ecd20b3fd3728ec498d789a7aada",
     "url": "/universo-discoteca/index.html"
   },
   {
-    "revision": "a2c83d563dc3988e3ac8",
+    "revision": "18255e513254d6992cc3",
     "url": "/universo-discoteca/static/css/main.212f7dfe.chunk.css"
   },
   {
-    "revision": "0e61ce2fd83fb7e2a0c9",
-    "url": "/universo-discoteca/static/js/2.e7ef7313.chunk.js"
+    "revision": "6ba767ec276f9e0c90ea",
+    "url": "/universo-discoteca/static/js/2.e2859d2b.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/universo-discoteca/static/js/2.e7ef7313.chunk.js.LICENSE.txt"
+    "url": "/universo-discoteca/static/js/2.e2859d2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a2c83d563dc3988e3ac8",
-    "url": "/universo-discoteca/static/js/main.972daadd.chunk.js"
+    "revision": "18255e513254d6992cc3",
+    "url": "/universo-discoteca/static/js/main.b6cce060.chunk.js"
   },
   {
     "revision": "c01be9c2c814ad83c187",
