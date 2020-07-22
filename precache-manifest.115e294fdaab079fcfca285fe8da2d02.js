@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "407488e7919728c43781c60289a25035",
+    "revision": "2172181ddd474dfe7a376c621e6b24f7",
     "url": "/universo-discoteca/index.html"
   },
   {
-    "revision": "8d28f5edaadaa0a82ea4",
+    "revision": "0fbfdc1ce122b6d77587",
     "url": "/universo-discoteca/static/css/main.6df71bf4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/universo-discoteca/static/js/2.b0b815cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d28f5edaadaa0a82ea4",
-    "url": "/universo-discoteca/static/js/main.6b91f4e5.chunk.js"
+    "revision": "0fbfdc1ce122b6d77587",
+    "url": "/universo-discoteca/static/js/main.40ed60cd.chunk.js"
   },
   {
     "revision": "c01be9c2c814ad83c187",

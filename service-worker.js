@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/universo-discoteca/precache-manifest.19253c93b598b93a6114a5e51fc4d7c5.js"
+  "/universo-discoteca/precache-manifest.115e294fdaab079fcfca285fe8da2d02.js"
 );
 
 self.addEventListener('message', (event) => {
