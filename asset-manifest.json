@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/elosorulo/universo-discoteca/static/css/main.6df71bf4.chunk.css",
-    "main.js": "/elosorulo/universo-discoteca/static/js/main.ae202cf1.chunk.js",
-    "main.js.map": "/elosorulo/universo-discoteca/static/js/main.ae202cf1.chunk.js.map",
-    "runtime-main.js": "/elosorulo/universo-discoteca/static/js/runtime-main.b0e181a6.js",
-    "runtime-main.js.map": "/elosorulo/universo-discoteca/static/js/runtime-main.b0e181a6.js.map",
-    "static/js/2.ad3e0b32.chunk.js": "/elosorulo/universo-discoteca/static/js/2.ad3e0b32.chunk.js",
-    "static/js/2.ad3e0b32.chunk.js.map": "/elosorulo/universo-discoteca/static/js/2.ad3e0b32.chunk.js.map",
-    "index.html": "/elosorulo/universo-discoteca/index.html",
-    "precache-manifest.e50e3e08240779206374b84324e4e83b.js": "/elosorulo/universo-discoteca/precache-manifest.e50e3e08240779206374b84324e4e83b.js",
-    "service-worker.js": "/elosorulo/universo-discoteca/service-worker.js",
-    "static/css/main.6df71bf4.chunk.css.map": "/elosorulo/universo-discoteca/static/css/main.6df71bf4.chunk.css.map",
-    "static/js/2.ad3e0b32.chunk.js.LICENSE.txt": "/elosorulo/universo-discoteca/static/js/2.ad3e0b32.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/elosorulo/universo-discoteca/static/media/1.6d0dacb8.jpg",
-    "static/media/2.jpg": "/elosorulo/universo-discoteca/static/media/2.2fa7caa8.jpg",
-    "static/media/3.jpg": "/elosorulo/universo-discoteca/static/media/3.765f1a8d.jpg",
-    "static/media/4.jpg": "/elosorulo/universo-discoteca/static/media/4.5034b829.jpg",
-    "static/media/5.jpg": "/elosorulo/universo-discoteca/static/media/5.00d277f0.jpg",
-    "static/media/6.jpg": "/elosorulo/universo-discoteca/static/media/6.1bbff7a0.jpg",
-    "static/media/universo-discoteca-sonido-entrega.mp3": "/elosorulo/universo-discoteca/static/media/universo-discoteca-sonido-entrega.6cb28cf9.mp3"
+    "main.css": "/universo-discoteca/static/css/main.6df71bf4.chunk.css",
+    "main.js": "/universo-discoteca/static/js/main.4caa3ce1.chunk.js",
+    "main.js.map": "/universo-discoteca/static/js/main.4caa3ce1.chunk.js.map",
+    "runtime-main.js": "/universo-discoteca/static/js/runtime-main.d6580537.js",
+    "runtime-main.js.map": "/universo-discoteca/static/js/runtime-main.d6580537.js.map",
+    "static/js/2.b0b815cb.chunk.js": "/universo-discoteca/static/js/2.b0b815cb.chunk.js",
+    "static/js/2.b0b815cb.chunk.js.map": "/universo-discoteca/static/js/2.b0b815cb.chunk.js.map",
+    "index.html": "/universo-discoteca/index.html",
+    "precache-manifest.c3d34a4be87b1a4721d4819a8994ab6b.js": "/universo-discoteca/precache-manifest.c3d34a4be87b1a4721d4819a8994ab6b.js",
+    "service-worker.js": "/universo-discoteca/service-worker.js",
+    "static/css/main.6df71bf4.chunk.css.map": "/universo-discoteca/static/css/main.6df71bf4.chunk.css.map",
+    "static/js/2.b0b815cb.chunk.js.LICENSE.txt": "/universo-discoteca/static/js/2.b0b815cb.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/universo-discoteca/static/media/1.6d0dacb8.jpg",
+    "static/media/2.jpg": "/universo-discoteca/static/media/2.2fa7caa8.jpg",
+    "static/media/3.jpg": "/universo-discoteca/static/media/3.765f1a8d.jpg",
+    "static/media/4.jpg": "/universo-discoteca/static/media/4.5034b829.jpg",
+    "static/media/5.jpg": "/universo-discoteca/static/media/5.00d277f0.jpg",
+    "static/media/6.jpg": "/universo-discoteca/static/media/6.1bbff7a0.jpg",
+    "static/media/universo-discoteca-sonido-entrega.mp3": "/universo-discoteca/static/media/universo-discoteca-sonido-entrega.6cb28cf9.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0e181a6.js",
-    "static/js/2.ad3e0b32.chunk.js",
+    "static/js/runtime-main.d6580537.js",
+    "static/js/2.b0b815cb.chunk.js",
     "static/css/main.6df71bf4.chunk.css",
-    "static/js/main.ae202cf1.chunk.js"
+    "static/js/main.4caa3ce1.chunk.js"
   ]
 }
