@@ -1,9 +1,13 @@
 import React from 'react';
 import Layout from './components/layout/Layout';
+import GlobalStyle from './style/GlobalStyle';
 
 function App() {
   return (
-    <Layout/>
+    <div>
+      <GlobalStyle/>
+      <Layout/>
+    </div>
   );
 }
 
