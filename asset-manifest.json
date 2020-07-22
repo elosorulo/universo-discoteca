@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/universo-discoteca/static/css/main.6df71bf4.chunk.css",
-    "main.js": "/universo-discoteca/static/js/main.40ed60cd.chunk.js",
-    "main.js.map": "/universo-discoteca/static/js/main.40ed60cd.chunk.js.map",
+    "main.css": "/universo-discoteca/static/css/main.212f7dfe.chunk.css",
+    "main.js": "/universo-discoteca/static/js/main.972daadd.chunk.js",
+    "main.js.map": "/universo-discoteca/static/js/main.972daadd.chunk.js.map",
     "runtime-main.js": "/universo-discoteca/static/js/runtime-main.d6580537.js",
     "runtime-main.js.map": "/universo-discoteca/static/js/runtime-main.d6580537.js.map",
-    "static/js/2.b0b815cb.chunk.js": "/universo-discoteca/static/js/2.b0b815cb.chunk.js",
-    "static/js/2.b0b815cb.chunk.js.map": "/universo-discoteca/static/js/2.b0b815cb.chunk.js.map",
+    "static/js/2.e7ef7313.chunk.js": "/universo-discoteca/static/js/2.e7ef7313.chunk.js",
+    "static/js/2.e7ef7313.chunk.js.map": "/universo-discoteca/static/js/2.e7ef7313.chunk.js.map",
     "index.html": "/universo-discoteca/index.html",
-    "precache-manifest.115e294fdaab079fcfca285fe8da2d02.js": "/universo-discoteca/precache-manifest.115e294fdaab079fcfca285fe8da2d02.js",
+    "precache-manifest.32938ff40812f188beebecf8c075e899.js": "/universo-discoteca/precache-manifest.32938ff40812f188beebecf8c075e899.js",
     "service-worker.js": "/universo-discoteca/service-worker.js",
-    "static/css/main.6df71bf4.chunk.css.map": "/universo-discoteca/static/css/main.6df71bf4.chunk.css.map",
-    "static/js/2.b0b815cb.chunk.js.LICENSE.txt": "/universo-discoteca/static/js/2.b0b815cb.chunk.js.LICENSE.txt",
+    "static/css/main.212f7dfe.chunk.css.map": "/universo-discoteca/static/css/main.212f7dfe.chunk.css.map",
+    "static/js/2.e7ef7313.chunk.js.LICENSE.txt": "/universo-discoteca/static/js/2.e7ef7313.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/universo-discoteca/static/media/1.6d0dacb8.jpg",
     "static/media/2.jpg": "/universo-discoteca/static/media/2.2fa7caa8.jpg",
     "static/media/3.jpg": "/universo-discoteca/static/media/3.765f1a8d.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d6580537.js",
-    "static/js/2.b0b815cb.chunk.js",
-    "static/css/main.6df71bf4.chunk.css",
-    "static/js/main.40ed60cd.chunk.js"
+    "static/js/2.e7ef7313.chunk.js",
+    "static/css/main.212f7dfe.chunk.css",
+    "static/js/main.972daadd.chunk.js"
   ]
 }
