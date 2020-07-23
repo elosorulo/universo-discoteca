@@ -11,7 +11,7 @@ const FrameImage = styled.img`
 `;
 
 const verticalFrameDimensions = `
-    margin-top: 12vh;
+    margin-top: 10vh;
     padding: 5%;
     width: 80%;
     margin-left: 5%;
