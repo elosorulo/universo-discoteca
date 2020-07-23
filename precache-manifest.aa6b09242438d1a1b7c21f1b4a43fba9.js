@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fc75b369b1c78182dc5fe9f423c3fc7",
+    "revision": "07cb57154c59dbd2c12dfbec36fa3419",
     "url": "/universo-discoteca/index.html"
   },
   {
-    "revision": "e0b5698cd59a16553443",
+    "revision": "8170a1f6b05786873c2f",
     "url": "/universo-discoteca/static/css/main.212f7dfe.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/universo-discoteca/static/js/2.34f10c83.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e0b5698cd59a16553443",
-    "url": "/universo-discoteca/static/js/main.cb359374.chunk.js"
+    "revision": "8170a1f6b05786873c2f",
+    "url": "/universo-discoteca/static/js/main.2c71a1ec.chunk.js"
   },
   {
     "revision": "c01be9c2c814ad83c187",
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/universo-discoteca/static/media/6.1bbff7a0.jpg"
   },
   {
-    "revision": "6cb28cf91d9c35854e7c067ca1932d39",
-    "url": "/universo-discoteca/static/media/universo-discoteca-sonido-entrega.6cb28cf9.mp3"
+    "revision": "4d74ef1488686ae4d59fdba646210660",
+    "url": "/universo-discoteca/static/media/universo-discoteca-loop.4d74ef14.mp3"
   }
 ]);
