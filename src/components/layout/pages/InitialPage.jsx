@@ -8,17 +8,17 @@ import Credits from '../../text/Credits';
 import PlayArrowIcon from '@material-ui/icons/PlayArrow';
 import StyledButton from '../../buttons/StyledButton';
 import KeyboardArrowDownIcon from '@material-ui/icons/KeyboardArrowDown';
+import isVertical from '../../../utils/isVertical';
+import { isMobile, isTablet } from 'react-device-detect';
 
-const ArrowOrPlayContainer = styled.div`
-    margin-top: 30vh;
-`;
+const mobileHorizontal = !isVertical && isMobile && !isTablet;
 
 const Description = () => {
     return (
         <Grid item xs={12} alignItems={"center"}>
-            <Title>Universo</Title>
-            <SubTitle>Discoteca</SubTitle>
-            <Credits>Manuel Strajman</Credits>
+            <Title mobileHorizontal={mobileHorizontal}>Universo</Title>
+            <SubTitle mobileHorizontal={mobileHorizontal}>Discoteca</SubTitle>
+            <Credits mobileHorizontal={mobileHorizontal}>Manuel Strajman</Credits>
         </Grid>
     );
 };
@@ -43,7 +43,7 @@ const PlayButton = (props) => {
 
 const InitialPage = (props) => {
     return (
-        <Grid container justify={"center"} align={"center"} spacing={10}>
+        <Grid container justify={"center"} align={"center"} spacing={mobileHorizontal ? 3 : 10}>
             <Description/>
             <Grid item xs={10} alignItems={"center"}>
                 <PlayButton play={props.start} started={props.started}/>

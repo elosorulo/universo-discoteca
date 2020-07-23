@@ -1,11 +1,11 @@
-import {Parallax} from 'react-spring/renderprops-addons';
-import StyledParallaxLayer from './StyledParallaxLayer';
+import {Parallax, ParallaxLayer} from 'react-spring/renderprops-addons';
 import React from 'react';
 import useAudio from '../../hooks/useAudio';
 import SoundButton from './buttons/SoundButton';
 import ImagePages from './pages/ImagePages';
 import InitialPage from './pages/InitialPage';
 import ContentService from '../../services/ContentService';
+import isVertical from '../../utils/isVertical';
 
 let parallax = null;
 
@@ -29,10 +29,10 @@ const Layout = () => {
                     toggle();
                 }
             }/>
-            <Parallax pages={images.length + 1} scrolling={started} vertical ref={ref => parallax = ref}>
-                <StyledParallaxLayer speed={started ? 0.05 : 0.001}>
+            <Parallax pages={(isVertical ? images.length / 2 : images.length) + 1} scrolling={started} vertical ref={ref => parallax = ref}>
+                <ParallaxLayer key={"layer"+0} speed={0.05}>
                     <InitialPage started={started} start={start}/>
-                </StyledParallaxLayer>
+                </ParallaxLayer>
                 <ImagePages images={images} />
             </Parallax>
         </div>
